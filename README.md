@@ -1,7 +1,7 @@
 # LethalForce
 Agency Characteristics and Deadly Force
 
-This repo contains data on agency characteristics and the use of deadly force for local police departments in the United States over the period 2013-2018
+This repo contains data on agency characteristics and the use of deadly force for local police departments in the United States over the period 2013-2020
 
 For details on the data construction process see 
 
